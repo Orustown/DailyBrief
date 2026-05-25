@@ -1,6 +1,8 @@
 name: Daily Brief
 
 # Generate a fresh daily report and publish to GitHub Pages.
+# Fork 说明：保留这个无功能影响的注释改动，确保 GitHub Actions
+# 在 fork 仓库中独立索引该 workflow。
 #
 # One-time setup for forkers (see README → "Run on GitHub Actions"):
 #   1. Settings → Actions → General → enable workflows (forked repos start disabled)
